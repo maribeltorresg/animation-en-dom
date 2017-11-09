@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    /* Espaciado */
+    border-spacing: 12px; 
+}
+
+td {
+    border: 1px solid #000;
+    height: 48px;
+    width: 48px;
+}
